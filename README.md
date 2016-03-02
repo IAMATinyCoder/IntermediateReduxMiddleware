@@ -2,6 +2,8 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+This is the Boilerplate and working repository for Section 5: Intermediate Redux Middleware, of Stephen Grider's React-Redux tutorial.
+
 ###Getting Started###
 
 There are two methods for getting started with this repo.
